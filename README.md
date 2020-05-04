@@ -1,5 +1,5 @@
 # fbrefanalysis
-Using the help of Christopher Martin's fbref scraper, I have done some analysis on goals and assists in the 'big 5' (EPL,Ligue 1, La Liga, Serie A, Bundesliga) over the last two decades.
+Using the help of Christopher Martin's fbref scraper (https://github.com/chmartin/FBref_EPL), I have done some analysis on goals and assists in the 'big 5' (EPL,Ligue 1, La Liga, Serie A, Bundesliga) over the last two decades.
 
 
 fbref.py is essentially Christopher Martin's scraper with a couple of things changed. It scrapes the following player stats, given a league and a season:
