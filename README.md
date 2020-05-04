@@ -15,3 +15,5 @@ This combined dataset can be found in the file ALLData2.csv, the separate data f
 The script NPGA25.py grabs all of the player seasons where the player has got at least 25 Non-Penalty Goals + Assists, and outputs the player, the tally, and the seasons in to a .csv file.
 
 The script AssistSeasons.py grabs the number of times a player has reached at least 10 league assists in a season, and outputs the ordered top 15 in to a .csv file.
+
+The script NPGA90Stats.py grabs the the player, the Non-Penalty Goals + Assists per 90, the season, and the minutes, and outputs every player that has NPGA/90 of over 0.9 and has played over 1,500 minutes that season, in to a .csv file. 
