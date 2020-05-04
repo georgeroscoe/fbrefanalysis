@@ -5,9 +5,6 @@ from collections import Counter
 
 df = pd.read_csv('ALLData2.csv',sep=',',encoding="utf8")
 
-
-df2 = df.sort_values(by=['player','season'])
-
 lst = []
 
 for index, row in df.iterrows():
