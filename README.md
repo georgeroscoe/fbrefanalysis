@@ -13,3 +13,5 @@ Using http://merge-csv.com/ I combined all of the data from the big 5 leagues fr
 This combined dataset can be found in the file ALLData2.csv, the separate data files for each league can be found also.
 
 The script NPGA25.py grabs all of the player seasons where the player has got at least 25 Non-Penalty Goals + Assists, and outputs the player, the tally, and the seasons in to a .csv file.
+
+The script AssistSeasons.py grabs the number of times a player has reached at least 10 league assists in a season, and outputs the ordered top 15 in to a .csv file.
