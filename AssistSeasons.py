@@ -1,7 +1,6 @@
 #!python3
 import pandas as pd
 import csv
-from collections import defaultdict
 from collections import Counter
 
 df = pd.read_csv('ALLData2.csv',sep=',',encoding="utf8")
