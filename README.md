@@ -8,7 +8,7 @@ fbref.py is essentially Christopher Martin's scraper with a couple of things cha
 
 and outputs them in to separate .csv files for each season.
 
-Using http://merge-csv.com/ I combined all of the data from the big 5 leagues from the 2000/2001 season up to and including the 2019/20 season. I also had the Premier League seasons from 1992/93 up to and including 1999/00.
+I combined all of the data from the big 5 leagues from the 2000/2001 season up to and including the 2019/20 season. I also had the Premier League seasons from 1992/93 up to and including 1999/00.
 
 This combined dataset can be found in the file ALLData2.csv, the separate data files for each league can be found also.
 
